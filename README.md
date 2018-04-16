@@ -23,4 +23,6 @@ Utilizamos metodología agile como herramienta principal  para  solucionar el re
 
 ![Talent Land Cultura](https://user-images.githubusercontent.com/32865262/38831592-7b727884-4185-11e8-8ed6-3763e1a7fdb9.gif)
 <!-- ![Talent Land Cultura](https://user-images.githubusercontent.com/32865262/38831593-7b8b3bd0-4185-11e8-845f-f3b59797c4f0.gif) -->
-(https://www.slideshare.net/SoniaGama7/descubre-guanajuato)
+<!-- (https://www.slideshare.net/SoniaGama7/descubre-guanajuato) -->
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2MhUiHOct0UfUR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoniaGama7/descubre-guanajuato" title="Descubre Guanajuato" target="_blank">Descubre Guanajuato</a> </strong> from <strong><a href="//www.slideshare.net/SoniaGama7" target="_blank">Sonia Gama</a></strong> </div>

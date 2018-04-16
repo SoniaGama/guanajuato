@@ -1,4 +1,4 @@
-# Proyecto Ganador de la Vertical de [Cultura](http://hackathon.talent-network.org/portfolio/cultura/) en el Hackaton 2018 de [Talent Land](http://2018.talent-land.mx/) Guadalajara
+# Proyecto Ganador de la Vertical de Cultura [Cultura](http://hackathon.talent-network.org/portfolio/cultura/) en el Hackaton 2018 de [Talent Land](http://2018.talent-land.mx/) Guadalajara
 
 ## Equipo BlackCornios
 
@@ -22,5 +22,5 @@ Utilizamos metodología agile como herramienta principal  para  solucionar el re
 ![Talent-Land Cultura](https://user-images.githubusercontent.com/32865262/38578153-bfd0d3d4-3cc8-11e8-9b28-9dc6f8f92804.png) -->
 
 ![Talent Land Cultura](https://user-images.githubusercontent.com/32865262/38831592-7b727884-4185-11e8-8ed6-3763e1a7fdb9.gif)
-![Talent Land Cultura](https://user-images.githubusercontent.com/32865262/38831593-7b8b3bd0-4185-11e8-845f-f3b59797c4f0.gif)
-
+<!-- ![Talent Land Cultura](https://user-images.githubusercontent.com/32865262/38831593-7b8b3bd0-4185-11e8-845f-f3b59797c4f0.gif) -->
+(https://www.slideshare.net/SoniaGama7/descubre-guanajuato)

@@ -8,7 +8,7 @@
 
 *Se requiere incrementar la afluencia de espectadores a los diferentes recintos de acervo cultural del Estado de Guanajuato; ya sean museos, recorridos culturales, casas de la cultura, etc. Haciendo más atractiva la visita de los ciudadanos, buscando diversas formas de captar y mantener la atención del público de todas las edades, logrando con producción adecuada que la gente tenga un aprendizaje de los espacios y su contenido, y desee volver a visitar el recinto.*
 
-Realizamos una Web-App, donde podemos ofrecer al usuario la ubicación de la oferta cultural del estado de Guanajuato, diseñamos rutas que logran cubrir las necesidades y gustos de nuestro target ayudándolo a desplazarse con más fluidez, con ello adquieren una experiencia interactiva y lúdica aumentando la afluencia y demanda cultural.
+En el transcurso de 3 dias realizamos una Web-App, donde podemos ofrecer al usuario la ubicación de la oferta cultural del estado de Guanajuato, diseñamos rutas que logran cubrir las necesidades y gustos de nuestro target ayudándolo a desplazarse con más fluidez, con ello adquieren una experiencia interactiva y lúdica aumentando la afluencia y demanda cultural.
 
 Gracias a la información que los usuarios añadan a la web sobre sus visitas, la data sobre lugares visitados aumentará  y con el tiempo será motor de recomendaciones válidadas de forma inteligente y completa, logrando que se pueda crear una potencial API sobre la oferta cultural del estado de Guanajuato, de usuarios para usuarios.
 

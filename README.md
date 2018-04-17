@@ -2,23 +2,23 @@
 
 ## Proyecto Ganador de la Vertical de [Cultura](http://hackathon.talent-network.org/portfolio/cultura/) en la Hackaton de [Talent Land](http://2018.talent-land.mx/) Guadalajara 2018.
 
-### Problematica propuesta por el estado de Guanajuato:
+### Problemática propuesta por el estado de Guanajuato:
 
 *Los recintos culturales del Estado de Guanajuato no reciben la afluencia esperada. Hacen falta actividades para captar la atención del visitante.*
 
 *Se requiere incrementar la afluencia de espectadores a los diferentes recintos de acervo cultural del Estado de Guanajuato; ya sean museos, recorridos culturales, casas de la cultura, etc. Haciendo más atractiva la visita de los ciudadanos, buscando diversas formas de captar y mantener la atención del público de todas las edades, logrando con producción adecuada que la gente tenga un aprendizaje de los espacios y su contenido, y desee volver a visitar el recinto.*
 
-En el transcurso de 3 dias realizamos una Web-App, donde podemos ofrecer al usuario la ubicación de la oferta cultural del estado de Guanajuato, diseñamos rutas que logran cubrir las necesidades y gustos de nuestro target ayudándolo a desplazarse con más fluidez, con ello adquieren una experiencia interactiva y lúdica aumentando la afluencia y demanda cultural.
+En el transcurso de 3 días realizamos una Web-App, donde podemos ofrecer al usuario la ubicación de la oferta cultural del estado de Guanajuato, diseñamos rutas que logran cubrir las necesidades y gustos de nuestro target ayudándolo a desplazarse con más fluidez, con ello adquieren una experiencia interactiva y lúdica aumentando la afluencia y demanda cultural.
 
-Gracias a la información que los usuarios añadan a la web sobre sus visitas, la data sobre lugares visitados aumentará  y con el tiempo será motor de recomendaciones válidadas de forma inteligente y completa, logrando que se pueda crear una potencial API sobre la oferta cultural del estado de Guanajuato, de usuarios para usuarios.
+Gracias a la información que los usuarios añadan a la web sobre sus visitas, la data sobre lugares visitados aumentará  y con el tiempo será motor de recomendaciones validadas de forma inteligente y completa, logrando que se pueda crear una potencial API sobre la oferta cultural del estado de Guanajuato, de usuarios para usuarios.
 
-### Tecnologias Usadas:
+### Tecnologías Usadas:
 
 - JavaScript: Utilizamos el lenguaje de JS para realizar el código front-end.
 
 - Firebase: Generamos una base de datos en Firebase de Google, lo que le permite al usuario publicar en tiempo real comentarios e imágenes de los lugares que visita. 
 
-- Google Places API: Utilizamos la API de Google para ayudarle al usuario a realizar una buqueda del lugar que desea visitar o para trazar la ruta que desea recorrer.
+- Google Places API: Utilizamos la API de Google para ayudarle al usuario a realizar una búsqueda del lugar que desea visitar o para trazar la ruta que desea recorrer.
 
 - Materialize y Bootstrap: Nos apoyamos de frameworks para realizar algunas vistas del proyecto. 
 
